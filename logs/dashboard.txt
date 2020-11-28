@@ -1,0 +1,10 @@
+scraped_2019: 17158
+scraped_2020: 97024
+scraped_2021: 0
+scraped_202011: 14
+scraped_202010: 3643
+failed_2019: 0
+failed_2020: 168163
+failed_2021: 0
+failed_202011: 168163
+failed_202010: 0
